@@ -1,0 +1,2 @@
+﻿  HelloWordBasic.cpp
+C:\Users\User\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\GLVideo2\code\vboVao2\Week2\HelloWordBasic.cpp(2,10): fatal  error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
